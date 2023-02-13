@@ -6,12 +6,9 @@
 
 - 🔭 I’m currently working as **React Developer**
 - 🌱 I’m currently learning **testing, clean code and software architecture**
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help in finding the perfect spanish omelette
 - 💬 Ask me about: React, Javascript, Maps, GIS
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 😄 Pronouns: She/Her
 
 <h2>Languages and tools</h2>
 
