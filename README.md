@@ -10,6 +10,7 @@
 - 💬 Ask me about: React, Javascript, Maps, GIS
 - 😄 Pronouns: She/Her
 
+<br>
 <h2>Languages and tools</h2>
 
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -30,6 +31,7 @@
 [![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]() 
 
+<br>
 <h2>Github activity</h2> 
 
 ![GitHub followers](https://img.shields.io/github/followers/VaqueroFontenla?style=social)
@@ -39,6 +41,7 @@
 ![Javi's Stats](https://github-readme-stats.vercel.app/api?username=VaqueroFontenla&count_private=true)
 ![Javis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaqueroFontenla&layout=compact)
 
+<br>
 <h2>Get on touch</h2>
 
 <a href="https://www.linkedin.com/in/loretovaquerofontenla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Loreto vaquero Fontenla LinkedIn" height="30" width="40" /></a>
